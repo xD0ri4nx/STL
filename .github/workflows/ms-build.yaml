@@ -29,4 +29,4 @@ jobs:
 
       - name: Compare output
         run: |
-          diff --side-by-side --suppress-common-lines -i x64/Release/output.txt output.txt
+          diff --side-by-side --suppress-common-lines x64/Release/output.txt output.txt

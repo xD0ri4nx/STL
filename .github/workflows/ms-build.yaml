@@ -25,7 +25,7 @@ jobs:
       - name: Run application
         run: |
           cd x64/Release
-          ./HandsOn - STL.exe > output.txt
+          ./"HandsOn - STL.exe" > output.txt
 
       - name: Compare output
         run: |

@@ -55,7 +55,7 @@ int main()
         if (doctor != doctori.end()) {
           
             doctor->ocupat = true;
-            cout << doctor->idDoctor << " " << problema.specializare << std::endl;
+            cout << doctor->idDoctor << " " << problema.idProblema << std::endl;
         }
     }
 

@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -18,7 +19,7 @@ struct Doctor
 };
 int main()
 {
-    ifstream inFile("input3.txt");
+    ifstream inFile("input.txt");
 
     int no_problems, no_doctors;
     string name, speciality;
@@ -68,3 +69,4 @@ int main()
     }
     return 0;
 }
+*/

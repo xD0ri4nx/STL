@@ -18,5 +18,20 @@
     <ClCompile Include="STL2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="STL_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="STL2_BONUS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="STL1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt" />
+    <Text Include="input2.txt" />
+    <Text Include="input3.txt" />
+    <Text Include="input4_bonus.txt" />
   </ItemGroup>
 </Project>
